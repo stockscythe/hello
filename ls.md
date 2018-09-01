@@ -1,0 +1,11 @@
+bulbea
+Clairvoyant
+deep_trader
+fixer
+fooltrader
+friartuck
+StockSharp
+trump2cash
+tushare
+wallstreet
+ystockquote
