@@ -22,3 +22,4 @@
 + [ystockquote](https://github.com/cgoldberg/ystockquote)
   -  Fetch stock quote data from Yahoo Finance
 
+COMMIT to add to list :)
